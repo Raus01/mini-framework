@@ -1,0 +1,16 @@
+{
+  "name": "mini-framework",
+  "version": "1.0.0",
+  "description": "A project that implements Abstracting the DOM Routing System, State Management and Event Handling, and has an example a `todoMVC` project using that framework.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "todomvc-app-css": "^2.0.0"
+  }
+}
